@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "name": "Arif Anzum Noyon",
+        "designation": "Mentor and CEO",
+        "image": "https://i.ibb.co/S37cGR8/noyon.jpg",
+        "salary": "80K"
+    },
+    {
+        "id": "2",
+        "name": "Mahedi Murad",
+        "designation": "HRM",
+        "image": "https://i.ibb.co/PD4LHD1/murad.jpg",
+        "salary": "70K"
+    },
+    {
+        "id": "3",
+        "name": "Mahbub Alam",
+        "designation": "Sr. Developer",
+        "image": "https://i.ibb.co/y6wnQ4w/mahbub.jpg",
+        "salary": "65K"
+    },
+    {
+        "id": "4",
+        "name": "A Mìt",
+        "designation": "Software Developer",
+        "image": "https://i.ibb.co/PFHTWd8/amit.jpg",
+        "salary": "55K"
+    },
+    {
+        "id": "5",
+        "name": "Ark Emon",
+        "designation": "Software Developer",
+        "image": "https://i.ibb.co/YkgqWwh/emon.jpg",
+        "salary": "55K"
+    },
+    {
+        "id": "6",
+        "name": "Akm Foysal Ahmed",
+        "designation": "Software Developer",
+        "image": "https://i.ibb.co/FXSkrFK/Foysal.jpg",
+        "salary": "55K"
+    },
+    {
+        "id": "7",
+        "name": "Md Riyad Hasan",
+        "designation": "Jr. Developer",
+        "image": "https://i.ibb.co/RDtRYZ9/riyad.jpg",
+        "salary": "50K"
+    }
+]
